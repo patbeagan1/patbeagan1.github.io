@@ -30,38 +30,41 @@
   "interests": [
     {
       "name": "App",
-      "keywords": [
-        "Android",
-        "Flutter",
-        "Design Systems",
-        "Offline"
-      ]
+      "keywords": ["android", "flutter", "design systems", "offline access"]
     },
     {
       "name": "System Administration",
-      "keywords": [
-        "Unix",
-        "Bash",
-        "Shell"
-      ]
+      "keywords": ["unix", "bash", "shell"]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "Artificial Intelligence",
+      "keywords": ["tensorflow", "data science"]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Android Languages and Frameworks",
+      "level": "Advanced",
       "keywords": [
-        "C",
-        "C++",
+        "Kotlin",
+        "Android",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "RxJava/RxKotlin",
+        "MaterialUI",
+        "Jetpack Compose",
+        "Databinding"
+      ]
+    },
+    {
+      "name": "Other Languages and Frameworks",
+      "level": "Intermediate",
+      "keywords": [
+        "Flutter",
+        "Python3",
+        "React",
+        "Javascript/Typescript",
+        "Kotlin Multiplatform",
+        "Lua (PICO8)"
       ]
     },
     {
@@ -71,69 +74,70 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Visual Studio Code",
+        "Android Studio"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Commonwealth Honors College, University of Massachusetts, Amherst, MA",
+      "area": "Computer Science (2016)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "startDate": "2012-09-01",
+      "endDate": "2016-05-06",
+      "gpa": "3.56",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Wayfair",
+      "position": "Senior Android Engineer (L3)",
+      "website": "wayfair.com",
+      "startDate": "2019-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Team Lead for Homebase App (Platform UI)",
+      "highlights": ["Maintain, update, and oversee app features"]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "Wayfair",
+      "position": "Android Engineer (L2)",
+      "website": "wayfair.com",
+      "startDate": "2018-06-01",
+      "endDate": "Promotion",
+      "summary": "Tech Lead for Android Design Services",
+      "highlights": ["Maintain, update, and oversee app features"]
+    },
+    {
+      "company": "Wayfair",
+      "position": "Android Engineer (L1)",
+      "website": "wayfair.com",
+      "startDate": "2016-09-19",
+      "endDate": "Promotion",
+      "summary": "Team member on Android Favorites, Accounts, and Growth",
+      "highlights": ["Maintain, update, and oversee app features"]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "SAMPLE - TBD",
+      "website": "SAMPLE - http://manoa.hawaii.edu/reis",
+      "position": "SAMPLE - Software Developer",
+      "startDate": "SAMPLE - 2016-01-01",
+      "endDate": "SAMPLE - Present",
+      "summary": "SAMPLE - TBD",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "TBD"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "SAMPLE - ",
+      "website": "SAMPLE - ",
+      "position": "SAMPLE - Professional organization involvement",
+      "startDate": "SAMPLE - ",
+      "endDate": "SAMPLE - ",
+      "summary": "SAMPLE - ",
       "highlights": [
         "Chair, ACM Manoa, 2016-Present",
         "Member, IEEE Student Branch, 2014-Present",
@@ -143,16 +147,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "SAMPLE - B+ Scholarship",
+      "date": "SAMPLE - 2013-Present",
+      "awarder": "SAMPLE - State of Hawaii",
+      "summary": "SAMPLE - Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "SAMPLE - First place",
+      "date": "SAMPLE - 2015",
+      "awarder": "SAMPLE - University of Hawaii Micromouse Competition",
+      "summary": "SAMPLE - My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
