@@ -2,52 +2,47 @@
   "basics": {
     "name": "Pat Beagan",
     "label": "Senior Software Engineer",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://media-exp3.licdn.com/dms/image/C4E03AQGuGch-iMmfIg/profile-displayphoto-shrink_800_800/0/1517475290222?e=1631145600&v=beta&t=K6WeZ04G1p8j9vh6mBo7izbSk8aZksytZyzWtddAKkY",
+    "email": "p beagan 1 @ gmail . com",
+    "phone": "508 838 7001",
+    "website": "https://patbeagan1.github.io",
+    "summary": "I am an Android developer in the San Antonio Area with a B.S. in Computer Science from the University of Massachusetts, Amherst. I specialize in Design Systems and App UI architecture.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "78121",
+      "city": "La Vernia",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "TX"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "patbeagan1",
+        "url": "http://github.com/patbeagan1"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "patrick-beagan-5399a791",
+        "url": "http://linkedin.com/in/patrick-beagan-5399a791"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "App",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Android",
+        "Flutter",
+        "Design Systems",
+        "Offline"
       ]
     },
     {
-      "name": "data mining",
+      "name": "System Administration",
       "keywords": [
+        "Unix",
+        "Bash",
+        "Shell"
       ]
     },
     {
