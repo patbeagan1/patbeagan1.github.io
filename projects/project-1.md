@@ -13,6 +13,8 @@ labels:
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
+<script src="https://gist.github.com/HugsLibRecordKeeper/51acf19869e4e07858ce5809d7a1e037.js"></script>
+
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
