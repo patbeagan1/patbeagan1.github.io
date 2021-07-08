@@ -117,47 +117,35 @@
       "endDate": "Promotion",
       "summary": "Team member on Android Favorites, Accounts, and Growth",
       "highlights": ["Maintain, update, and oversee app features"]
+    },
+    {
+      "company": "UMass Amherst College of Information and Computer Sciences",
+      "position": "Assistant System Administrator",
+      "website": "https://www.cics.umass.edu/about/computing-facilities",
+      "startDate": "2015-05-01",
+      "endDate": "2016-09-01",
+      "summary": "While working at CICS I ",
+      "highlights": ["Basic pen-testing in bash and perl"
+     , "Linux server installations (CentOS, Debian, Ubuntu)",
+    "Mail server administration",
+  "Spam filtering",
+"Scripting"]
     }
   ],
   "volunteer": [
     {
-      "organization": "SAMPLE - TBD",
-      "website": "SAMPLE - http://manoa.hawaii.edu/reis",
-      "position": "SAMPLE - Software Developer",
-      "startDate": "SAMPLE - 2016-01-01",
-      "endDate": "SAMPLE - Present",
-      "summary": "SAMPLE - TBD",
+      "organization": "Girl Develop It",
+      "website": "",
+      "position": "Mentor",
+      "startDate": "2018-07-24",
+      "endDate": "2018-07-26",
+      "summary": "Guiding new Android developers though basic activity initialization and project set up",
       "highlights": [
         "TBD"
-      ]
-    },
-    {
-      "organization": "SAMPLE - ",
-      "website": "SAMPLE - ",
-      "position": "SAMPLE - Professional organization involvement",
-      "startDate": "SAMPLE - ",
-      "endDate": "SAMPLE - ",
-      "summary": "SAMPLE - ",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "SAMPLE - B+ Scholarship",
-      "date": "SAMPLE - 2013-Present",
-      "awarder": "SAMPLE - State of Hawaii",
-      "summary": "SAMPLE - Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "SAMPLE - First place",
-      "date": "SAMPLE - 2015",
-      "awarder": "SAMPLE - University of Hawaii Micromouse Competition",
-      "summary": "SAMPLE - My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
