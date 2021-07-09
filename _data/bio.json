@@ -87,7 +87,14 @@
       "startDate": "2012-09-01",
       "endDate": "2016-05-06",
       "gpa": "3.56",
-      "courses": []
+      "courses": [
+        "Image Synthesis",
+        "Web Programming",
+        "Artificial Intelligence",
+        "Algorithms",
+        "Software Engineering",
+        "Software Engineering Management"
+      ]
     }
   ],
   "work": [
@@ -98,7 +105,13 @@
       "startDate": "2019-06-01",
       "endDate": "Present",
       "summary": "Team Lead for Homebase App (Platform UI)",
-      "highlights": ["Maintain, update, and oversee app features"]
+      "highlights": [
+        "Organized the Android implementation of Redesign 2019",
+        "Proposed, coordinated and implemented \"Design Token\" framework to synchronize style changes across Web, Android and iOS",
+        "Proposed and planned migration to Jetpack Compose",
+        "Designed and planned cross platform framework and migration to new design system in 2021, which enabled B2B/Dark modes while reducing Resource$NotFound exceptions",
+        "Lead maintainer for the Android implementation of Wayfair's Homebase design system (hbds.us)"
+      ]
     },
     {
       "company": "Wayfair",
@@ -107,7 +120,12 @@
       "startDate": "2018-06-01",
       "endDate": "Promotion",
       "summary": "Tech Lead for Android Design Services",
-      "highlights": ["Maintain, update, and oversee app features"]
+      "highlights": [
+        "Early kotlin adopter - created kotlin lesson plan for trainings",
+        "Implementation of Design Services and Visual Search",
+        "Tech lead of a 3 person team",
+        "Implemented draggable custom view for resizing crop area in photos"
+      ]
     },
     {
       "company": "Wayfair",
@@ -116,7 +134,10 @@
       "startDate": "2016-09-19",
       "endDate": "Promotion",
       "summary": "Team member on Android Favorites, Accounts, and Growth",
-      "highlights": ["Maintain, update, and oversee app features"]
+      "highlights": [
+        "Implementing a deeplinking framework which trivialized addition of new deeplinks and drove up organic installs",
+        "Implementation of the post order flow (return and replace)"
+      ]
     },
     {
       "company": "UMass Amherst College of Information and Computer Sciences",
@@ -125,27 +146,24 @@
       "startDate": "2015-05-01",
       "endDate": "2016-09-01",
       "summary": "While working at CICS I ",
-      "highlights": ["Basic pen-testing in bash and perl"
-     , "Linux server installations (CentOS, Debian, Ubuntu)",
-    "Mail server administration",
-  "Spam filtering",
-"Scripting"]
+      "highlights": [
+        "Basic pen-testing in bash and perl",
+        "Linux server installations (CentOS, Debian, Ubuntu)",
+        "Mail server administration",
+        "Spam filtering",
+        "Scripting in bash, perl, python"
+      ]
     }
   ],
   "volunteer": [
     {
       "organization": "Girl Develop It",
-      "website": "",
+      "website": "girldevelopit.com",
       "position": "Mentor",
       "startDate": "2018-07-24",
       "endDate": "2018-07-26",
-      "summary": "Guiding new Android developers though basic activity initialization and project set up",
-      "highlights": [
-        "TBD"
-      ]
+      "summary": "Guiding new Android developers though basic activity initialization and project set up"
     }
-  ],
-  "awards": [
   ],
   "references": [
     {
