@@ -135,7 +135,7 @@
       "endDate": "Promotion",
       "summary": "Team member on Android Favorites, Accounts, and Growth",
       "highlights": [
-        "Implementing a deeplinking framework which trivialized addition of new deeplinks and drove up organic installs",
+        "Refactoring a deeplinking framework to trivialize addition of new deeplinks and drive up organic installs",
         "Implementation of the post order flow (return and replace)"
       ]
     },
