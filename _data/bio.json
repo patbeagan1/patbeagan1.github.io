@@ -149,63 +149,6 @@
       ]
     }
   ],
-  "work2": [
-    {
-      "company": "Wayfair",
-      "startDate": "2019-09-19",
-      "website": "wayfair.com",
-      "endDate": "Present",
-      "positionList": [
-        {
-          "position": "Senior Android Engineer (L3)",
-          "startDate": "2019-06-01",
-          "summary": "Team Lead for Homebase App (Platform UI)",
-          "highlights": [
-            "Organized the Android implementation of Redesign 2019",
-            "Proposed, coordinated and implemented \"Design Token\" framework to synchronize style changes across Web, Android and iOS",
-            "Proposed and planned migration to Jetpack Compose",
-            "Designed and planned cross platform framework and migration to new design system in 2021, which enabled B2B/Dark modes while reducing Resource$NotFound exceptions",
-            "Lead maintainer for the Android implementation of Wayfair's Homebase design system (hbds.us)"
-          ]
-        },
-        {
-          "position": "Android Engineer (L2)",
-          "startDate": "2018-06-01",
-          "summary": "Tech Lead for Android Design Services",
-          "highlights": [
-            "Early kotlin adopter - created kotlin lesson plan for trainings",
-            "Implementation of Design Services and Visual Search",
-            "Tech lead of a 3 person team",
-            "Implemented draggable custom view for resizing crop area in photos"
-          ]
-        },
-        {
-          "position": "Android Engineer (L1)",
-          "startDate": "2016-09-19",
-          "summary": "Team member on Android Favorites, Accounts, and Growth",
-          "highlights": [
-            "Refactoring a deeplinking framework to trivialize addition of new deeplinks and drive up organic installs",
-            "Implementation of the post order flow (return and replace)"
-          ]
-        }
-      ]
-    },
-    {
-      "company": "UMass Amherst College of Information and Computer Sciences",
-      "position": "Assistant System Administrator",
-      "website": "https://www.cics.umass.edu/about/computing-facilities",
-      "startDate": "2015-05-01",
-      "endDate": "2016-09-01",
-      "summary": "While working at CICS I did the following:",
-      "highlights": [
-        "Basic pen-testing in bash and perl",
-        "Linux server installations (CentOS, Debian, Ubuntu)",
-        "Mail server administration",
-        "Spam filtering",
-        "Scripting in bash, perl, python"
-      ]
-    }
-  ],
   "volunteer": [
     {
       "organization": "Girl Develop It",
